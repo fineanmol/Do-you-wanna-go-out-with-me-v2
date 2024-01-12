@@ -1,5 +1,8 @@
 # Do you wanna go out with me? 💖
 
+<img width="818" alt="image" src="https://github.com/fineanmol/Do-you-wanna-go-out-with-me-v2/assets/24794539/7336435b-b5e2-43c3-a542-f88d2e19a990">
+
+
 Welcome to the "Do you wanna go out with me?" repository! This delightful web experience is designed to add a touch of magic to the classic question of asking someone out.
 
 ! Do you wanna go out with me?💕
